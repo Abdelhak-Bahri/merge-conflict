@@ -7,3 +7,7 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+
+# Code Versions Control
+- skill: Git merge-conflicts
+  description: managing conflicts while merging git branches
